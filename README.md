@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+Full-Stack Developer still learning with experience in JavaScript, CSS , HTML, React , Nodejs, MySQL Server , Power Bi
+
 Desarrollador Full-Stack en Formación con experiencia en JavaScript, CSS , HTML, MySQL Server, Power Bi.
 Aprendiendo actualmente React, Nodejs
 
