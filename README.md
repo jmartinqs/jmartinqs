@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Desarrollador Front-End en Formación con en JavaScript, CSS , HTML.
+Desarrollador Front-End en Formación con en JavaScript, CSS , HTML, MySQL Server, Power Bi.
 Aprendiendo actualmente React, Nodejs
 
 
