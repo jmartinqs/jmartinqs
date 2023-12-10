@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+Desarrollador Front-End en Formación con Experiencia Básica en JavaScript, CSS , HTML.
+Aprendiendo actualmente React, Nodejs
+
 
 <!--
 **jmartinqs/jmartinqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
